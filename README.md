@@ -5,6 +5,8 @@
 <br />
 
 <a href="https://twitter.com/geekynitish"><img src="https://img.shields.io/badge/X-%40geekynitish-0b1322?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=060a12" alt="X @geekynitish" /></a>
+<a href="https://www.instagram.com/geekynitish/"><img src="https://img.shields.io/badge/Instagram-%40geekynitish-0b1322?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=060a12" alt="Instagram @geekynitish" /></a>
+<a href="https://www.facebook.com/GeekyNitish/"><img src="https://img.shields.io/badge/Facebook-GeekyNitish-0b1322?style=for-the-badge&logo=facebook&logoColor=22d3ee&labelColor=060a12" alt="Facebook GeekyNitish" /></a>
 <a href="mailto:sis.nitish@gmail.com"><img src="https://img.shields.io/badge/Email-sis.nitish%40gmail.com-0b1322?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=060a12" alt="Email" /></a>
 <a href="https://newsdog.online"><img src="https://img.shields.io/badge/Live-newsdog.online-0b1322?style=for-the-badge&logo=rss&logoColor=22d3ee&labelColor=060a12" alt="newsdog.online" /></a>
 
@@ -156,6 +158,8 @@ My writing so far lives in project documentation: architecture notes, deployment
 
 <a href="https://github.com/geekynitish"><img src="https://img.shields.io/badge/GitHub-geekynitish-0b1322?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=060a12" alt="GitHub" /></a>
 <a href="https://twitter.com/geekynitish"><img src="https://img.shields.io/badge/X-%40geekynitish-0b1322?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=060a12" alt="X" /></a>
+<a href="https://www.instagram.com/geekynitish/"><img src="https://img.shields.io/badge/Instagram-%40geekynitish-0b1322?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=060a12" alt="Instagram @geekynitish" /></a>
+<a href="https://www.facebook.com/GeekyNitish/"><img src="https://img.shields.io/badge/Facebook-GeekyNitish-0b1322?style=for-the-badge&logo=facebook&logoColor=22d3ee&labelColor=060a12" alt="Facebook GeekyNitish" /></a>
 <a href="mailto:sis.nitish@gmail.com"><img src="https://img.shields.io/badge/Email-sis.nitish%40gmail.com-0b1322?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=060a12" alt="Email" /></a>
 
 <br /><br />
