@@ -8,7 +8,6 @@
 <a href="https://www.instagram.com/geekynitish/"><img src="https://img.shields.io/badge/Instagram-%40geekynitish-0b1322?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=060a12" alt="Instagram @geekynitish" /></a>
 <a href="https://www.facebook.com/GeekyNitish/"><img src="https://img.shields.io/badge/Facebook-GeekyNitish-0b1322?style=for-the-badge&logo=facebook&logoColor=22d3ee&labelColor=060a12" alt="Facebook GeekyNitish" /></a>
 <a href="mailto:sis.nitish@gmail.com"><img src="https://img.shields.io/badge/Email-sis.nitish%40gmail.com-0b1322?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=060a12" alt="Email" /></a>
-<a href="https://newsdog.online"><img src="https://img.shields.io/badge/Live-newsdog.online-0b1322?style=for-the-badge&logo=rss&logoColor=22d3ee&labelColor=060a12" alt="newsdog.online" /></a>
 
 </div>
 
@@ -49,7 +48,7 @@ I use large language models as **components, not magic**. They sit inside pipeli
 
 ## Featured work
 
-> Most of my repositories are private, so the source isn't linked. Live products are linked where they exist.
+> Most of my repositories are private, so source code and live deployments aren't linked.
 
 <table>
 <tr>
@@ -57,7 +56,6 @@ I use large language models as **components, not magic**. They sit inside pipeli
 
 ### NewsDog
 **Real-time news aggregator with AI summaries**
-<br /><a href="https://newsdog.online">newsdog.online</a>
 
 A self-running news platform. Queue-based workers pull RSS feeds, categorise and de-duplicate stories, and produce AI summaries and quick-read digests. An admin console handles feeds, publishers, fetch logs and runtime tuning.
 
