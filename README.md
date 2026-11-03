@@ -19,7 +19,7 @@
 
 ## About
 
-I'm **Nitish Kumar**, a developer based in **Jaipur, India**, on GitHub since 2013. My work sits where **media, the web and automation** meet: news platforms that run themselves, AI pipelines that turn ideas into finished media, and small, careful systems at the edge that do one job well.
+I'm **Nitish Kumar**, a developer based in **Jaipur, India**, on GitHub since 2013. My work sits where **the web, AI and automation** meet: products that run themselves, AI pipelines that turn ideas into finished media, and small, careful systems at the edge that do one job well.
 
 I think of myself in three registers:
 
@@ -31,7 +31,7 @@ I think of myself in three registers:
 
 ## What I'm thinking about
 
-- **Information at scale.** How news is gathered, ranked, summarised and found, and how much of that a machine should be trusted to do.
+- **Information at scale.** How information is gathered, ranked, summarised and found, and how much of that a machine should be trusted to do.
 - **Search and discoverability.** Structured data, crawlability and how pages get understood by search engines and, increasingly, by AI answer engines.
 - **Automation as leverage.** One developer with good pipelines can do work that used to need a whole team. I'm interested in where that breaks down.
 - **The edge as a default.** Serverless runtimes and edge databases have changed what a small, cheap, globally fast app looks like.
@@ -40,7 +40,7 @@ I think of myself in three registers:
 
 I use large language models as **components, not magic**. They sit inside pipelines with clear inputs, outputs and fallbacks.
 
-- **LLMs in production paths:** summarisation and key-takeaway extraction for news, script generation for short-form video, AI-assisted headline and SEO-title writing in Hindi and English.
+- **LLMs in production paths:** summarisation and key-takeaway extraction, script generation for short-form video, AI-assisted SEO-title writing in Hindi and English.
 - **Synthetic media pipelines:** text → neural voice (edge-TTS) → programmatic video composition (MoviePy) → automated publishing over the YouTube Data API.
 - **AI-assisted engineering:** agentic coding tools as everyday collaborators, with review, tests and verification kept in the loop.
 
@@ -127,14 +127,14 @@ A mobile-first billing and kitchen system for street-food stalls, chai kiosks an
 
 Small builds that test an idea:
 
-- **Hindi-first SEO tooling.** LLM-generated, search-aware headlines and titles for Hindi content, where most SEO tools are English-only.
+- **Hindi-first SEO tooling.** LLM-generated, search-aware titles for Hindi content, where most SEO tools are English-only.
 - **Structured data at depth.** Rich-results-valid JSON-LD (`Product`, `AggregateOffer`, `FAQPage`, `BreadcrumbList`) on statically generated pages to see how far schema alone moves discoverability.
 - **Edge-native everything.** Rebuilding classic server apps (auth, POS, CMS-style sites) on Workers + D1 to find where the edge is a better default and where it isn't.
 - **Content migration by script.** Scraping and converting legacy sites into fast static Astro builds, with the content pipeline automated rather than copy-pasted.
 
 ## Writing and research
 
-My writing so far lives in project documentation: architecture notes, deployment runbooks and design write-ups inside the repositories above. Public essays on **AI in news workflows**, **edge-first architecture** and **search in the age of answer engines** are in progress, and they'll be linked here when they're published.
+My writing so far lives in project documentation: architecture notes, deployment runbooks and design write-ups inside the repositories above. Public essays on **AI in real-world pipelines**, **edge-first architecture** and **search in the age of answer engines** are in progress, and they'll be linked here when they're published.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
