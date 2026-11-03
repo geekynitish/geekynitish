@@ -54,18 +54,6 @@ I use large language models as **components, not magic**. They sit inside pipeli
 <tr>
 <td width="50%" valign="top">
 
-### NewsDog
-**Real-time news aggregator with AI summaries**
-
-A self-running news platform. Queue-based workers pull RSS feeds, categorise and de-duplicate stories, and produce AI summaries and quick-read digests. An admin console handles feeds, publishers, fetch logs and runtime tuning.
-
-**Why it's interesting:** fetch intervals, concurrency, timeouts and retry policy are all tunable from the UI, and every fetch is logged with duration and errors. It's built to be operated, not just demoed.
-
-`React 18` `Vite` `TypeScript` `Supabase` `PostgreSQL` `Docker` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
 ### Edge Central Auth
 **Self-hosted single sign-on on Cloudflare Workers**
 
@@ -76,8 +64,6 @@ One credential store and session layer shared by 10+ applications. No third-part
 `Cloudflare Workers` `D1` `TypeScript` `Next.js` `jose`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### AI Shorts Studio
@@ -90,7 +76,9 @@ A pipeline that writes a script with an LLM, voices it with neural TTS, composes
 `Next.js` `Cloudflare Pages + D1` `Python` `MoviePy` `edge-tts` `YouTube Data API`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### FoodKart
 **Offline-first, multi-tenant POS for small food businesses**
